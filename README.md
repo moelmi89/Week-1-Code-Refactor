@@ -22,3 +22,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Screenshot of Webpage
+
+<img src="http://github.com/moelmi89/Week-1-Code-Refactor/blob/main/screencapture-file-C-Users-moelm-bootcamp-Student-Week-1-Code-Refactor-index-html-2022-10-02-16_07_12%20(2).png">
