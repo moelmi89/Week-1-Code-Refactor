@@ -26,3 +26,6 @@ THEN I find a concise, descriptive title
 ## Screenshot of Webpage
 
 <img src="screencapture-file-C-Users-moelm-bootcamp-Student-Week-1-Code-Refactor-index-html-2022-10-02-16_07_12 (2).png">
+
+
+
