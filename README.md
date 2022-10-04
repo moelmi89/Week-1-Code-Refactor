@@ -3,7 +3,7 @@
 ## User Story
 
 ```
-As a stakeholder in a marketing consulatnc I want a codebase that follows accessibility standards
+As a stakeholder in a marketing consultancy I want a codebase that follows accessibility standards
 so that our own site is optimized for search engines
 ```
 
@@ -25,4 +25,4 @@ THEN I find a concise, descriptive title
 
 ## Screenshot of Webpage
 
-<img src="http://github.com/moelmi89/Week-1-Code-Refactor/blob/main/screencapture-file-C-Users-moelm-bootcamp-Student-Week-1-Code-Refactor-index-html-2022-10-02-16_07_12%20(2).png">
+<img src="screencapture-file-C-Users-moelm-bootcamp-Student-Week-1-Code-Refactor-index-html-2022-10-02-16_07_12 (2).png">
