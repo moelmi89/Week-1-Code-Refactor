@@ -7,7 +7,7 @@ As a stakeholder in a marketing consultancy I want a codebase that follows acces
 so that our own site is optimized for search engines
 ```
 
-### Acceptance Criteria
+## Acceptance Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -27,5 +27,12 @@ THEN I find a concise, descriptive title
 
 <img src="screencapture-file-C-Users-moelm-bootcamp-Student-Week-1-Code-Refactor-index-html-2022-10-02-16_07_12 (2).png">
 
+## Link to Webpage
 
 
+https://moelmi89.github.io/Week-1-Code-Refactor
+
+
+## Sample of the Code
+
+<img src="coding screenshot.png">
